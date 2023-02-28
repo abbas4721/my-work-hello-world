@@ -1,4 +1,10 @@
-let personName : string = "Ghulam abbas"
-console.log('hello' + {personName} + 'would u like to learn python today?')
-export{};
+let studentName = ("ghulam abbas");
+let surName = ("awais abbas");
+Message: ("would u like to learn some python today");
+console.log(`hello ${studentName} would u like to learn some python today `);
+console.log(`and ${surName} would u too love to learn some python too`);
+
+export{}
+
+
 
