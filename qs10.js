@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var name0 = "hamid khan";
+var date = "21-03-23";
+var message1 = "he is a good driver";
+var name1 = "rashid abbas";
+var date1 = "23-04-20";
+var message2 = "he is good in cooking";
+console.log("hello ".concat(name0, " and today ").concat(date, " ").concat(message1));
+console.log("heloo ".concat(name1, " and today ").concat(date1, " ").concat(message2));

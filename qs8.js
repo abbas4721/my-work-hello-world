@@ -1,0 +1,13 @@
+var num1 = (5);
+var num2 = (3);
+console.log(5 + 3);
+var num3 = (4);
+var num4 = (2);
+var num5 = (10);
+var num6 = (7);
+var num7 = (64);
+var num8 = (8);
+var line = '____________';
+console.log("".concat(num5 - num4, " ").concat(line));
+console.log("".concat(num3 * num4, " ").concat(line));
+console.log("".concat(num7 / num8, " ").concat(line));

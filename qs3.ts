@@ -1,5 +1,6 @@
-let _personname = "ghulam Abbas";
+let _personname = "ghulam abbas lowercase";
+let Personname = "Awais Abbas uppercase";
+let personName = "ABBAN ABBAS TITLECASE";
 
-
-console.log(`uppercase${_personname},lowercase${_personname},titlecase${_personname} `);
+console.log(` lowercase ${_personname}, uppercase ${Personname}, titlecase ${personName} `);
 export{}
